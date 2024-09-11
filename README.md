@@ -2,7 +2,7 @@
 Подключение весов Масса-К по http/webservice
 
 
-### Настройки в appsettings.json:
+## Настройки в appsettings.json:
 
 
   "ConnectionStrings": {
