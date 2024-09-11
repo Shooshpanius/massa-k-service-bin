@@ -22,4 +22,9 @@
     - для Linux полный путь к порту /dev/serial/by-id/usb-MASSA-K_MASSA-K_Weight_USB_adapter*******
     
 
-  serialResponseL: 20 для весов без передачи веса тары и 24 для весов с передачей веса тары.
+
+  serialResponseL:
+  
+    - 20 для весов без передачи веса тары,
+    
+    - 24 для весов с передачей веса тары.
