@@ -4,6 +4,7 @@
 Настройки в appsettings.json:
 
 
+
   "ConnectionStrings": {
   
     "serialPort": "",
@@ -11,6 +12,7 @@
     "serialResponseL": "20"
     
   }
+
 
 
   serialPort:
