@@ -1,8 +1,8 @@
 # massa-k-service-bin
 Подключение весов Масса-К по http/webservice
 
-Настройки в appsettings.json:
 
+## Настройки в appsettings.json:
 
 
   "ConnectionStrings": {
@@ -12,7 +12,6 @@
     "serialResponseL": "20"
     
   }
-
 
 
   serialPort:
