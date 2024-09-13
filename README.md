@@ -1,5 +1,5 @@
 # massa-k-service-bin
-Подключение весов Масса-К по http/webservice
+Подключение весов Масса-К по http/websocket
 
 
 ## Настройки в appsettings.json:
