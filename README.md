@@ -31,9 +31,14 @@
 ## Получение данных:
 
 Запрос к http сервису:
-http://localhost:****/GetState
 
+- запрос: http://localhost:****/GetState
 
-Ответ:
-{"weightString":"0.017","isStableL":true}
+- ответ: {"weightString":"0.017","isStableL":true}
+
+Запрос к Websocket сервису:
+
+- запрос: ws://localhost:****
+
+- ответ: 12|True
 
