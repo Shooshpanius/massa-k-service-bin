@@ -9,7 +9,9 @@
   
     "serialPort": "",
     
-    "serialResponseL": "20"
+    "serialResponseL": "20",
+
+    "listenPortTCP": "5001"
     
   }
 
@@ -27,6 +29,10 @@
     - 20 для весов без передачи веса тары,
     
     - 24 для весов с передачей веса тары.
+
+
+  listenPortTCP: порт для локального сервиса Websocket
+
 
 ## Получение данных:
 
